@@ -1,0 +1,22 @@
+*{
+   box-sizing: border-box; 
+   padding: 0;
+   margin: 0;
+}
+
+.deck{
+    width: 100%;
+  display: inline-flex;
+
+}
+
+img{
+    height: 200px;
+}
+
+.lap{
+    /* width: 100%; */
+  margin-left: -102px;  
+  /* flex-grow: 1; */
+
+}
